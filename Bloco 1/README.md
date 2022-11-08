@@ -6,6 +6,7 @@ Nosso trabalho durante essa disciplina será focado em desenvolver um programa q
 Vale ressaltar que, aqui, o target ainda era o comprimento do bico dos pinguins. No entanto, o target mudou para a espécie nos blocos seguintes, após aprendermos sobre a classificação de dados. 
 
 Neste bloco, os dados do DataFrame escolhido foram tratados da seguinte maneira:
+
   	1) Eliminamos espaços sem dados;
 	2) Agrupamos os features numéricos;
 	3) Normalizamos os dados para facilitar seu uso
