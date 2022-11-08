@@ -10,7 +10,6 @@ Neste bloco, os dados do DataFrame escolhido foram tratados da seguinte maneira:
   	1) Eliminamos espaços sem dados;
 	2) Agrupamos os features numéricos;
 	3) Normalizamos os dados para facilitar seu uso
-	4) Descrevemos alguns fenômenos que ocorrem nos dados, tais como skewness (assimetria) e 
-  kurtosis (curtose - achatamento da curva de função de distribuição de probabilidade);
+	4) Descrevemos alguns fenômenos que ocorrem nos dados, tais como skewness (assimetria) e kurtosis (curtose - achatamento da curva de função de distribuição de probabilidade);
 	5) Plotamos gráficos referentes aos dados analisados e à sua distribuição;
 	6) Finalmente, citamos as fontes utilizadas.
