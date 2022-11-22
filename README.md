@@ -30,7 +30,7 @@ Nessas pastas, estarão as tarefas realizadas por cada integrante, cuja identifi
 	3) Árvore de decisão; 
 	4) RandomForest (Floresta Aleatória);
   
-	Após o estudo desses 4 métodos, realizamos a comparação entre eles, a fim de observar e avalariar o melhor resultado. Com isso, realizamos mais uma classíficação, afim de escolhermos os hiperparâmetros a serem utilizados no modelo de melhor resultado.  
+	Após o estudo desses 4 métodos, realizamos a comparação entre eles, a fim de observar e avaliar o melhor resultado. Com isso, realizamos mais uma classíficação, afim de escolhermos os hiperparâmetros a serem utilizados no modelo de melhor resultado.  
   
   #### No Bloco 3 - Aprendizado Não Supervisionado -, foram utilizados algoritmos para analisar e clusterizar (agrupar/aglomerar) os dados não rotulados, para, dessa forma, eles encontrarem padrões por conta própria.
   
