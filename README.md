@@ -42,6 +42,11 @@ Nessas pastas, estarão as tarefas realizadas por cada integrante, cuja identifi
 	
 	1.1) Isolation forest;
 	2.1) Local Outlier Factor (LOF).
+	
+#### No Bloco 4 - Validação Cruzada e Conclusão -, foi utilizada a técnica de validação cruzada, a fim de avaliar os modelos utilizados nos blocos anteriores. Essa técnica consiste em comparar a aprendizagem dos algoritmos através da divisão dos dados em dois segmentos, os quais serão responsáveis por treinar o modelo e o outro para validá-lo.
+	A validação foi realizada por meio do método k-fold, o qual, ao invés de apenas um treino, realiza vários k treinos. Em suma, o modelo em questão será treinado e testado um número k de vezes.
+	Além disso, com o final da disciplina de Aprendizado de Máquinas, foi necessário conferir o repositório como um todo, a fim de encontrar erros tanto nos arquivos ReadMe quanto nos códigos. Em conjunto a isso, também julgamos necessário chegar a uma conclusão sobre qual o modelo que chegou em melhores resultados de previsão do nosso target em questão, isto é, a espécie dos pinguins. 
+
   
 ## Objetivos
 
